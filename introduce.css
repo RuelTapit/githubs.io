@@ -216,7 +216,7 @@ div.basketball-logo{
 }
 
 div.basketball-logo img{
-    width: 530px;
+    width: 360px;
 }
 
 div.games-logo{
@@ -449,3 +449,7 @@ footer{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+div.list-group{
+    width: 90px;
+    position: fixed;
+}
