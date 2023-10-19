@@ -91,6 +91,96 @@ div.image-logo{
 }
 
 
+
+li{
+    
+    height: 120px;
+    width: 475px;
+}
+
+li a{
+    width: 50px;
+}
+
+div.dropdown2 li{
+    height: 120px;
+    width: 570px;
+
+}
+
+div.dropdown3 ul{
+    position: absolute;
+    width: 290px;
+    height: 300px;
+}
+
+div.dropdown6 ul{
+    width: 297px;
+    height: 240px;
+}
+
+div.dropdown8 ul{
+    width: 307px;
+    height: 280px;
+}
+
+
+div.dropdown{
+    position: absolute;
+    top: 480px;
+    left: 200px;
+}
+div.dropdown i{
+    width: 30px;
+
+}
+
+div.dropdown2{
+    position: absolute;
+    top: 480px;
+    left: 600px;
+}
+
+div.dropdown3{
+    position: absolute;
+    top: 480px;
+    left: 1000px;
+}
+
+div.dropdown4{
+    position: absolute;
+    top: 480px;
+    left: 200px;
+}
+
+div.dropdown5{
+    position: absolute;
+    top: 480px;
+    left: 600px;
+}
+
+
+div.dropdown6{
+    position: absolute;
+    top: 480px;
+    left: 1000px;
+    
+}
+
+
+div.dropdown7{
+    position: absolute;
+    top: 520px;
+    left: 340px;
+}
+
+div.dropdown8{
+    position: absolute;
+    top: 520px;
+    left: 940px;
+}
+
+
 div.interest{
     border: none;
     position: absolute;
